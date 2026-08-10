@@ -1,0 +1,8 @@
+streamlit>=1.60
+plotly>=6.9
+pydeck>=0.9
+scikit-learn>=1.8
+pandas
+numpy
+requests
+joblib
