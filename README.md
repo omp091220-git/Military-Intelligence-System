@@ -1,6 +1,5 @@
 # AI Military Intelligence Dashboard — Setup Guide
-
-## Folder structure (jaisa hona chahiye)
+(Might help)
 
 ```
 your_project/
